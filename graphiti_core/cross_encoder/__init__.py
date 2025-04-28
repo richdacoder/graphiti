@@ -1,4 +1,4 @@
-"""
+ """
 Copyright 2025, Zep Software, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
